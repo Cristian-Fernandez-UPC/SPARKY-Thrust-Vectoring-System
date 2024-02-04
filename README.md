@@ -24,7 +24,11 @@ Through the different chapters of this work, it can be seen, from the conception
 In this repository you can find all the files related of this final bachelor's thesis. The files are organized as follows:
 
 
-In addition, a **YouTube channel** has been created to be able to upload the different videos of the test flights and a trailer that encompasses the entire project itself. The channel is [@CristianFernandezUPC](https://www.youtube.com/@CristianFernandezUPC/featured). The uploaded videos are:
+In addition, a **YouTube channel** has been created to be able to upload the different videos of the test flights and a trailer that encompasses the entire project itself. The channel is [@CristianFernandezUPC](https://www.youtube.com/@CristianFernandezUPC/featured). 
+
+![ImgYoutube](Images/Youtube_Channel.png)
+
+The uploaded videos are:
 
 - [Sparky Trailer](https://www.youtube.com/watch?v=5irSOpZRAP4)
 - [Flight Test 1](https://www.youtube.com/watch?v=05G50puAUSE)
