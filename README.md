@@ -23,15 +23,15 @@ Through the different chapters of this work, it can be seen, from the conception
 ## Media Overview
 In this repository you can find all the files related of this final bachelor's thesis. The files are organized as follows:
 
-- [3D_Models](3D_Models) Here you can see all the pieces that make up Sparky in .stl files. With these files you can make all the 3D printing process to build this UAS with VTOL capabilities.
+- [3D_Models](3D_Models) - This folder contains the `.stl` files for all components of Sparky. Utilizing these files, users with access to a suitable 3D printer can fabricate the individual parts and assemble them to create a functional UAS with VTOL capabilities.
 
-- [3D_Sparky_Designs](3D_Sparky_Designs) Here you can access to all the SolidWorks files of the different versions of Sparky and additionally to the Gimbal that works to calibrate the PIDs.
+- [3D_Sparky_Designs](3D_Sparky_Designs) - This folder gives access to the SolidWorks files of the different versions of Sparky and additionally to the Gimbal that works to calibrate the PIDs.
 
-- [DataLogs](DataLogs) Here you can access to all the DataLogs of the different Flight Tests.
+- [DataLogs](DataLogs) - This folder contains all the DataLogs in a `.bin` format of the different Flight Tests.
 
-- [Images](Images) Some cool images.
+- [Images](Images) - Some cool images.
 
-- [Parameters](Parameters) Here you can access to different parameters used in the real flight tests.
+- [Parameters](Parameters) - This folder contains the different parameters used in the real flight tests in `.param` files.
 
 
 In addition, a **YouTube channel** has been created to be able to upload the different videos of the test flights and a trailer that encompasses the entire project itself. The channel is [@CristianFernandezUPC](https://www.youtube.com/@CristianFernandezUPC/featured). 
