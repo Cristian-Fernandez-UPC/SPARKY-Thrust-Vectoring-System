@@ -105,7 +105,7 @@ The uploaded videos are:
 ![Img4](Images/1707081060720.jpg)
 
 
-![Img5](Images/Final Banner.png)
+![Img5](Images/FinalBanner.png)
 
 
 
