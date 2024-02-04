@@ -27,7 +27,7 @@ Through the different chapters of this work, it can be seen, from the conception
 
                 
 
-## :white_circle: Media Overview
+## :small_orange_diamond: Media Overview
 In this repository you can find all the files related of this final bachelor's thesis. The files are organized as follows:
 
 - [3D_Models](3D_Models) - This folder contains the `.stl` files for all components of Sparky. Utilizing these files, users with access to a suitable 3D printer can fabricate the individual parts and assemble them to create a functional UAS with VTOL capabilities.
@@ -52,7 +52,7 @@ The uploaded videos are:
 ![ImgYoutube](Images/Youtube_Channel.png)
 
 
-## :large_blue_circle: Components
+## :small_orange_diamond: Components
 
 - [Mini Set The Cube Orange+](https://rc-innovations.es/shop/pixhawk-2-1-mini-set-the-cube-orange-plus#attr=8269)
 
@@ -94,7 +94,7 @@ The uploaded videos are:
 
   
 
-## :movie_camera: Project Images
+## :small_orange_diamond: Project Images
 
 ![Img1](Images/1707081060692.jpg)
 
