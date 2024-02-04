@@ -84,7 +84,9 @@ The uploaded videos are:
 
 ![Img2](Images/SparkyV2.2Plano2.png)
 
-![Img3](Images/1707081060720.jpg)
+![Img3](Images/PrintProcess.png)
+
+![Img4](Images/1707081060720.jpg)
 
 
 
