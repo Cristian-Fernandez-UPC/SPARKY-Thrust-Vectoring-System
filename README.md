@@ -21,7 +21,7 @@ To do this, an unmanned aircraft system (UAS) will be designed from scratch with
 
 Through the different chapters of this work, it can be seen, from the conception of the initial requirements and selection of the components, to the 3D design and subsequent manufacturing of the system itself, which will be calibrated and tested in different test flights, taking advantage of the university's facilities.
 
-## Media Overview
+## :white_circle: Media Overview
 In this repository you can find all the files related of this final bachelor's thesis. The files are organized as follows:
 
 - [3D_Models](3D_Models) - This folder contains the `.stl` files for all components of Sparky. Utilizing these files, users with access to a suitable 3D printer can fabricate the individual parts and assemble them to create a functional UAS with VTOL capabilities.
@@ -47,7 +47,7 @@ The uploaded videos are:
 
 
 
-## Components
+## large_blue_circle: Components
 
 - [Mini Set The Cube Orange+](https://rc-innovations.es/shop/pixhawk-2-1-mini-set-the-cube-orange-plus#attr=8269)
 
@@ -89,7 +89,7 @@ The uploaded videos are:
 
   
 
-## Project Images
+## :movie_camera: Project Images
 
 ![Img1](Images/1707081060692.jpg)
 
