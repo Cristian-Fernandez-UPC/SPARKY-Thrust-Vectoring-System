@@ -1,11 +1,11 @@
 # SPARKY Thrust Vectoring System
 ### Development and manufacturing of a Thrust Vectoring System for reusable rocket dynamics research - Final Bachelor's Thesis
 
-Hola esto es una prueba
+Author: Cristian Fernandez Dominguez
+Advisors: Pablo Royo Chic & Ramon Casanella Alonso
 
-This is a <sub>subscript</sub> text
-
-
+Bachelor’s degree in Aerospace Systems Engineering
+Castelldefels School of Telecommunications and Aerospace Engineering
 
 ---------------------------------------------------------------------------------------------------------------------------
 Author: Cristian Fernandez Dominguez
