@@ -64,9 +64,9 @@ Through the different chapters of this work, it can be seen, from the conception
 
 ## Project Images
 
-![Img1](Images/1707081060692.jpg | width=100)
+![Img1](Images/1707081060692.jpg)
 
-![Img2](Images/1707081060720.jpg | width=100)
+![Img2](Images/1707081060720.jpg)
 
 
 
