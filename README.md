@@ -64,5 +64,5 @@ Through the different chapters of this work, it can be seen, from the conception
 
 ## Project Images
 
-SPARKY-Thrust-Vectoring-System/Images/1707081060692.jpg
+![Img1](SPARKY-Thrust-Vectoring-System/Images/1707081060692.jpg)
 
