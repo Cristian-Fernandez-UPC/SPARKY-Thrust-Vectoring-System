@@ -21,6 +21,12 @@ To do this, an unmanned aircraft system (UAS) will be designed from scratch with
 
 Through the different chapters of this work, it can be seen, from the conception of the initial requirements and selection of the components, to the 3D design and subsequent manufacturing of the system itself, which will be calibrated and tested in different test flights, taking advantage of the university's facilities.
 
+
+
+
+
+                
+
 ## :white_circle: Media Overview
 In this repository you can find all the files related of this final bachelor's thesis. The files are organized as follows:
 
