@@ -20,6 +20,18 @@ To do this, an unmanned aircraft system (UAS) will be designed from scratch with
 
 Through the different chapters of this work, it can be seen, from the conception of the initial requirements and selection of the components, to the 3D design and subsequent manufacturing of the system itself, which will be calibrated and tested in different test flights, taking advantage of the university's facilities.
 
+## Media Overview
+In this repository you can find all the files related of this final bachelor's thesis. The files are organized as follows:
+
+
+In addition, a **YouTube channel** has been created to be able to upload the different videos of the test flights and a trailer that encompasses the entire project itself. The channel is [@CristianFernandezUPC](https://www.youtube.com/@CristianFernandezUPC/featured). The uploaded videos are:
+
+- [Sparky Trailer](https://www.youtube.com/watch?v=5irSOpZRAP4)
+- [Flight Test 1](https://www.youtube.com/watch?v=05G50puAUSE)
+- [Flight Test 2](https://www.youtube.com/watch?v=WWrm3nAGPkM&t=1s)
+
+
+
 ## Components
 
 - [Mini Set The Cube Orange+](https://rc-innovations.es/shop/pixhawk-2-1-mini-set-the-cube-orange-plus#attr=8269)
