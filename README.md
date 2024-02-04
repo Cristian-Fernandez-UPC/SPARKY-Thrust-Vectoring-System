@@ -10,7 +10,7 @@ Bachelor’s degree in Aerospace Systems Engineering
 
 Castelldefels School of Telecommunications and Aerospace Engineering
 
-## :red_circle: Introduction
+## :small_orange_diamond: Introduction
 Nowadays, the space industry is experiencing exponential growth, fueled by private companies and the conception of new and ambitious challenges. In recent years, the cost of reaching space has been drastically reduced, and to a certain extent, reusable rockets are to blame for that cost reduction.
 
 Unfortunately, and it has always been so, the space industry has always required a lot of resources and funding, and even with the drastic cost reduction with the incorporation of this new type of rockets, the development of technologies by students and researchers from universities around the world is still very difficult.
