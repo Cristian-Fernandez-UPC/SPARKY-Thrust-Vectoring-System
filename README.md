@@ -47,7 +47,7 @@ The uploaded videos are:
 
 
 
-## large_blue_circle: Components
+## :large_blue_circle: Components
 
 - [Mini Set The Cube Orange+](https://rc-innovations.es/shop/pixhawk-2-1-mini-set-the-cube-orange-plus#attr=8269)
 
