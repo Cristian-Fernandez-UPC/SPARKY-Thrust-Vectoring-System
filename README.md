@@ -28,7 +28,7 @@ Through the different chapters of this work, it can be seen, from the conception
                 
 
 ## :small_orange_diamond: Media Overview
-In this repository you can find all the files related of this final bachelor's thesis. The files are organized as follows:
+In this repository you can find all the files related of this final bachelor's thesis. Also the `Checklist` procedure and the `Connections Diagram` are in this repository. The files are organized as follows:
 
 - [3D_Models](3D_Models) - This folder contains the `.stl` files for all components of Sparky. Utilizing these files, users with access to a suitable 3D printer can fabricate the individual parts and assemble them to create a functional UAS with VTOL capabilities.
 
