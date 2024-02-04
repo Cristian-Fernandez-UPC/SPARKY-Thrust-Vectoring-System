@@ -66,7 +66,9 @@ Through the different chapters of this work, it can be seen, from the conception
 
 ![Img1](Images/1707081060692.jpg)
 
-![Img2](Images/1707081060720.jpg)
+![Img2](Images/SparkyV2.2Plano2.png)
+
+![Img3](Images/1707081060720.jpg)
 
 
 
