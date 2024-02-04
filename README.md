@@ -43,14 +43,13 @@ In this repository you can find all the files related of this final bachelor's t
 
 In addition, a **YouTube channel** has been created to be able to upload the different videos of the test flights and a trailer that encompasses the entire project itself. The channel is [@CristianFernandezUPC](https://www.youtube.com/@CristianFernandezUPC/featured). 
 
-![ImgYoutube](Images/Youtube_Channel.png)
-
 The uploaded videos are:
 
 - [Sparky Trailer](https://www.youtube.com/watch?v=5irSOpZRAP4)
 - [Flight Test 1](https://www.youtube.com/watch?v=05G50puAUSE)
 - [Flight Test 2](https://www.youtube.com/watch?v=WWrm3nAGPkM&t=1s)
 
+![ImgYoutube](Images/Youtube_Channel.png)
 
 
 ## :large_blue_circle: Components
