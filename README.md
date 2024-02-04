@@ -22,11 +22,11 @@ Through the different chapters of this work, it can be seen, from the conception
 
 ## Components
 
-  - Mini Set The Cube Orange+ (https://rc-innovations.es/shop/pixhawk-2-1-mini-set-the-cube-orange-plus#attr=8269)
+- Mini Set The Cube Orange+ (https://rc-innovations.es/shop/pixhawk-2-1-mini-set-the-cube-orange-plus#attr=8269)
 
-	- FrSky Taranis X9D PLUS (https://rc-innovations.es/shop/frsky-taranis-x9d-plus-se-2019-access-2-4ghz-carbono#attr=7182)
+- FrSky Taranis X9D PLUS (https://rc-innovations.es/shop/frsky-taranis-x9d-plus-se-2019-access-2-4ghz-carbono#attr=7182)
 
-	- Here 3 + GPS Module (https://rc-innovations.es/shop/here-3-plus-modulo-gps-gnss-m8p-2-pixhawk-2-istand?search=here+3#attr=7478)
+- Here 3 + GPS Module (https://rc-innovations.es/shop/here-3-plus-modulo-gps-gnss-m8p-2-pixhawk-2-istand?search=here+3#attr=7478)
 
 	- Gens ACE LiPo Battery 2500mAh [x2] (https://rc-innovations.es/shop/gens-ace-6s-22-2v-2500mah-80c-bateria-lipo?page=3&category=356#attr=8748,8749,8747)
 
